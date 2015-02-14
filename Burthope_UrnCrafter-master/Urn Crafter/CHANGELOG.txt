@@ -1,0 +1,31 @@
+
+[13-4-1]	1.3
+ Restructured basic script format
+ Added safeguard for accidental clicking of weaving loom
+ Added camera action for spinner/oven
+ Automated production dialogue toggle
+ Added inventory support for pickaxes
+ Fixed NPE in walking method
+ Fixed isOnScreen returning true when not on screen
+ Attempted fix at walkToWell getting caught in the mountain
+ 
+[13-3-9]	1.2
+ Update for mouse trail
+ Resized GUI
+ Added ability to change clay source (bank/mining)
+ Added crafting skill statistics to paint
+ Improved SceneEntity clicking
+ 
+[13-3-3] 	1.1
+ Split shared classes to new Repo
+ Fixed walking status updates
+ Update for SDN compatibility
+ Added mouse trail
+ 
+[13-2-23] 	1.0
+ Added GUI
+ Public release
+ 
+[13-2-14] 	0.9
+ Initial commit
+ 
